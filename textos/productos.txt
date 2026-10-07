@@ -1,0 +1,2 @@
+102030;audifonos;45;3.75;samsumg;
+121212;lapiz;50;0.1;maderas juan;
